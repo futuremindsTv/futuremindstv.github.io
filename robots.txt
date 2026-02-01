@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://futuremindstv.github.io/sitemap.xml
